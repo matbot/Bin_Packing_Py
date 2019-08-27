@@ -2,9 +2,6 @@
 # -*- coding: utf-8 -*-
 """ Author: Mathew McDade
     Date: 1/27/2019
-    Class: CS325.400 Winter 2019
-    Assignment: HW8: Bin Packing
-    Description:
 """
 
 
